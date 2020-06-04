@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PMR_TP1_TODO.iml" filepath="$PROJECT_DIR$/PMR_TP1_TODO.iml" group="PMR_TP1_TODO" />
+      <module fileurl="file://$PROJECT_DIR$/SQ1_App-PMR_TP1_TODO.iml" filepath="$PROJECT_DIR$/SQ1_App-PMR_TP1_TODO.iml" group="PMR_TP1_TODO" />
+      <module fileurl="file://$PROJECT_DIR$/SQ1_RH_App.iml" filepath="$PROJECT_DIR$/SQ1_RH_App.iml" group="SQ1_RH_App" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="SQ1_RH_App/app" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditTextPreference
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:key="@string/shared"
+        android:summary="@string/clique"
+        android:title="@string/pseudo" />
+
+    <Preference
+        android:key="button"
+        android:widgetLayout="@layout/activity_settings"/>
+
+
+</PreferenceScreen>

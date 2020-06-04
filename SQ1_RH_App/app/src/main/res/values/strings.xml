@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">QS1_RH_App</string>
+    <string name="settings">Settings</string>
+    <string name="pseudo">Pseudo</string>
+    <string name="ok">OK</string>
+    <string name="new_list">Nouvelle liste</string>
+    <string name="new_item">Nouvel Item</string>
+    <string name="Preferences">Preferences</string>
+    <string name="afficher_Pseudo">afficher Pseudo</string>
+    <string name="shared" />
+    <string name="clique" />
+</resources>

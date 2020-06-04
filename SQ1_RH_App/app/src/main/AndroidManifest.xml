@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.pmr.sq1_rh_app">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.Light.DarkActionBar">
+        <activity android:name="com.pmr.sq1_rh_app.Activity.ShowListActivity" />
+        <activity android:name="com.pmr.sq1_rh_app.Activity.ChoixListActivity"></activity>
+        <activity android:name="com.pmr.sq1_rh_app.Activity.SettingsActivity" />
+        <activity android:name="com.pmr.sq1_rh_app.Activity.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
